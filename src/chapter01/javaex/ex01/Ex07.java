@@ -19,7 +19,7 @@ public class Ex07 {
 		double var03 = a+b;
 		System.out.println(var03);
 		
-		//////////////////////////////jhfjfhfj
+		//////////////////////////////
 		//강제형변환
 		float var04 = 1111.6345F;
 		int var05 = (int)var04;  //소수점 버려도 되니까 정수로 바꿔줘
